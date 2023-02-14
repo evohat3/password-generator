@@ -5,6 +5,8 @@ A Password Generator that uses abc,ABC,123,!@# characters.
 # Deployment
 The website is deployed on GitHub Pages and can be accessed at https://evohat3.github.io/password-generator/.
 
+![Screenshot of Web App](https://github.com/evohat3/password-generator/raw/main/Assets/03-javascript-homework-demo.png)
+
 # FEATURES
 Will generate a password based on the input it recieves.
 
