@@ -14,7 +14,7 @@ Will generate a password based on the input it recieves.
 *  Symbols
 
 # Credits
-This project was built using HTML, CSS and hosted on GitHub Pages.
+This project was built using HTML, CSS andjavascript, as well hosted on GitHub Pages.
 
 # Contact
 If you have any questions or concerns, please email me at nigel.poblete@gmail.com.
